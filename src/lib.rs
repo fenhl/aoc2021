@@ -2,4 +2,6 @@
 
 mod prelude;
 
+mod day01;
+
 aoc_lib! { year = 2021 }
