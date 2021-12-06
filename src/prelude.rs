@@ -1,5 +1,8 @@
 pub(crate) use {
-    std::num::ParseIntError,
+    std::{
+        collections::HashMap,
+        num::ParseIntError,
+    },
     itertools::Itertools as _,
     serde::Deserialize,
 };
