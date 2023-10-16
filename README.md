@@ -1,5 +1,1 @@
-These are my solutions to 2021's [Advent of Code](https://adventofcode.com/) puzzles.
-
-To run, use [`cargo aoc`](https://crates.io/crates/cargo-aoc).
-
-I'm not expecting to participate much this year, since I have a few other ongoing projects.
+My solutions to some of 2021's Advent of Code puzzles. This repository is archived in favor of [fenhl/aoc](https://github.com/fenhl/aoc) which includes solutions to more puzzles from 2021 as well as those from other years.
